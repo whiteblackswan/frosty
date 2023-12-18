@@ -1,0 +1,13 @@
+img {
+    position: absolute;
+}
+
+#ball {
+    display: none;
+}
+
+#win {
+    position: relative;
+    color: white;
+    display: none;
+}
